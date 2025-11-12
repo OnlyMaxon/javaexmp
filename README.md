@@ -2,6 +2,12 @@
 
 A fully working Finance tracking application built with Java for Android. Track your income and expenses with an intuitive mobile interface.
 
+## 📚 Documentation
+
+- **[Quick Start Guide](QUICKSTART.md)** - Get started in minutes
+- **[Building Instructions](BUILDING.md)** - Detailed build and installation guide
+- **[Application Documentation](APP_DOCUMENTATION.md)** - Complete technical documentation
+
 ## Features
 
 - ✅ **Add Transactions**: Record income and expenses with descriptions, amounts, and categories
